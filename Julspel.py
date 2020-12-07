@@ -24,6 +24,7 @@ while True:
                 elif YourAbility == 2:
                     Santa = Santa - YourAbility2DMG
                     print(f'\n\tYou did {YourAbility2DMG} damage to Santa with your icicle\n\tYou have {Health} ❤\n\tSanta has {Santa} ❤')
-            
+                YourMove - 1
+            print('Santas move')            
     else:
         print('Invalid input, try again')
