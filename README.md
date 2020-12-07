@@ -1,2 +1,1 @@
-# Julspel
- 
+Jag kommer att försöka skapa ett text och turn baserat battle spel där man får möta jultomten.
